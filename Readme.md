@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/HierarchicalDataTemplate/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HierarchicalDataTemplate/MainWindow.xaml))
+* [ViewModel.cs](./CS/HierarchicalDataTemplate/ViewModel.cs) (VB: [ViewModel.vb](./VB/HierarchicalDataTemplate/ViewModel.vb))
+<!-- default file list end -->
 # How to bind the AccordionControl to data using the HierarchicalData template
 
 
