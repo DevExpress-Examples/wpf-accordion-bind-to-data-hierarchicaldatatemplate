@@ -33,6 +33,9 @@ This example binds the [WPF Accordion Control](https://docs.devexpress.com/WPF/1
 * [ViewModel.cs](./CS/HierarchicalDataTemplate/ViewModel.cs) (VB: [ViewModel.vb](./VB/HierarchicalDataTemplate/ViewModel.vb))
 
 
+## Related Examples
+
+* [WPF Accordion Control - Bind to Data Using the ChildrenPath Property](https://github.com/DevExpress-Examples/wpf-accordion-bind-to-data-using-childrenpath)
 ## Documentation
 
 * [AccordionControl.ItemTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.ItemTemplate)
