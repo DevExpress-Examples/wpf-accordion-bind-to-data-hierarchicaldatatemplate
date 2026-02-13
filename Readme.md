@@ -42,7 +42,7 @@ This example binds the [WPF Accordion Control](https://docs.devexpress.com/WPF/1
 * [AccordionControl.ItemTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Accordion.AccordionControl.ItemTemplate)
 * [WPF Accordion - Data Binding](https://docs.devexpress.com/WPF/118635/controls-and-libraries/navigation-controls/accordion-control/data-binding)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-bind-to-data-hierarchicaldatatemplate&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-accordion-bind-to-data-hierarchicaldatatemplate&~~~was_helpful=no)
 
